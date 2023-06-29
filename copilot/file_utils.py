@@ -28,3 +28,10 @@ def compare_dataframe_exact(df1, df2):
 # return difference
 def compare_dictionary(dict1, dict2):
     pass
+
+# generate html by template
+# return html
+def generate_html_by_template(template_path, data):
+    pass
+
+

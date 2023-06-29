@@ -1,0 +1,18 @@
+- the tool to draw technical architecture diagram
+- show me an example to use Visio to draw technical architecture diagram
+- do you know UI project structure?
+- show me set up UI project npm command with React
+- how many comparion algorithms I can use?
+- can macos recoder screen?
+  - Command + Shift + 5 
+  - Command + Control + Esc
+- show me react html dashboard snipt
+- how many html chart tools i can use?
+- how to import chart.js in my project?
+- initialize a new char object in my component's componentDidMount method
+- react use chart.js
+- do u know how to write html format mail?
+- add table in html format email
+- include pretty css for html format email
+- include chart in html format mail
+- which public data i can fetch from websites?
